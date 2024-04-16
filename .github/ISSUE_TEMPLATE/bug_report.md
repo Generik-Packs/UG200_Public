@@ -6,6 +6,7 @@ labels: ''
 assignees: ''
 
 ---
+### Issues that do not follow this template will be closed
 ### Describe the Bug:
 
 
