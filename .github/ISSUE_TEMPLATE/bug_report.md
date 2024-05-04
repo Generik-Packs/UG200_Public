@@ -28,10 +28,10 @@ Paste your crash report or log file to https://gist.github.com/ and paste the li
 
 
 ### Please complete the following information:
+ - Which Game Launcher are you using? :
  - Have you checked if your bug has already been reported, including closed issues? :
  - Have you added or removed any mods, and if so, which?:
  - Modpack Version Number :
- - Is OptiFine installed? : 
  - Does this issue affect Server, Client, or Both? :
  
  
